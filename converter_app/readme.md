@@ -10,3 +10,9 @@ streamlit run converter_app.py
 # 使用 python -m 来运行 Streamlit 模块
 python -m streamlit run converter_app.py
 ```
+
+一般正常情况下不能直接使用streamlit run converter_app.py运行，因为没有加入到环境变量中，所以需要使用python -m streamlit run converter_app.py来运行。
+
+## 截图
+
+![screenshot](./assets/image.png)
